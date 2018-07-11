@@ -1,0 +1,5 @@
+com\parking\model\Vehicle.class
+com\parking\model\VehiclePredicates.class
+com\parking\service\ParkingMgmt.class
+com\parking\service\SlotMgmtservice.class
+com\parking\service\SlotMgmtServiceImpl.class
